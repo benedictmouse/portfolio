@@ -21,7 +21,7 @@ function Contact() {
       whileInView={{opacity: 1, y:0}}
       initial={{opacity: 0, y: 100}}
       transition={{duration: 2.5}}>
-            <a href='benedictomondi60@gmail.com' className='border-b'>benedictomondi60@gmail.com</a>
+            <a href='mailto:benedictomondi60@gmail.com' className='border-b'>benedictomondi60@gmail.com</a>
             </motion.div>
         </div>
     </div>
