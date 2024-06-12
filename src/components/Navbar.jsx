@@ -11,7 +11,7 @@ function Navbar() {
         <img className='mx-2 w-12' src={logo} alt='logo'/>
     </div>
     <div className="flex flex-shrink-0 item-center">
-    <a href="https://www.instagram.com/mouse2003" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.instagram.com/m.o.u.s.e.e_" target="_blank" rel="noopener noreferrer">
         <FaInstagram className='mx-2 text-2xl' />
           </a>
         <a href="https://www.linkedin.com/in/benedict-omondi-398b7a2a6?trk=contact-info" target="_blank" rel="noopener noreferrer">
